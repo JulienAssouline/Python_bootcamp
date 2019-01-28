@@ -1,0 +1,265 @@
+id,id_3char,name
+naabw,abw,Aruba
+asafg,afg,Afghanistan
+afago,ago,Angola
+naaia,aia,Anguilla
+eualb,alb,Albania
+euand,and,Andorra
+naant,ant,Netherlands Antilles
+asare,are,United Arab Emirates
+saarg,arg,Argentina
+asarm,arm,Armenia
+ocasm,asm,American Samoa
+anata,ata,Antarctica
+anatf,atf,French South Antarctic Territory
+naatg,atg,Antigua and Barbuda
+ocaus,aus,Australia
+euaut,aut,Austria
+asaze,aze,Azerbaijan
+afbdi,bdi,Burundi
+eubel,bel,Belgium
+afben,ben,Benin
+nabes,bes,Bonaire
+afbfa,bfa,Burkina Faso
+asbgd,bgd,Bangladesh
+eubgr,bgr,Bulgaria
+asbhr,bhr,Bahrain
+nabhs,bhs,Bahamas
+eubih,bih,Bosnia and Herzegovina
+nablm,blm,Saint Barthélemy
+eublr,blr,Belarus
+eublx,blx,Belgium-Luxembourg
+nablz,blz,Belize
+nabmu,bmu,Bermuda
+sabol,bol,Bolivia
+sabra,bra,Brazil
+nabrb,brb,Barbados
+asbrn,brn,Brunei
+asbtn,btn,Bhutan
+anbvt,bvt,Bouvet Island
+afbwa,bwa,Botswana
+afcaf,caf,Central African Republic
+nacan,can,Canada
+ascck,cck,Cocos (Keeling) Islands
+euche,che,Switzerland
+euchi,chi,Channel Islands
+sachl,chl,Chile
+aschn,chn,China
+afciv,civ,Cote d'Ivoire
+afcmr,cmr,Cameroon
+afcod,cod,Democratic Republic of the Congo
+afcog,cog,Republic of the Congo
+occok,cok,Cook Islands
+sacol,col,Colombia
+afcom,com,Comoros
+afcpv,cpv,Cape Verde
+nacri,cri,Costa Rica
+eucsk,csk,Czechoslovakia
+nacub,cub,Cuba
+nacuw,cuw,Curaçao
+ascxr,cxr,Christmas Island
+nacym,cym,Cayman Islands
+ascyp,cyp,Cyprus
+eucze,cze,Czech Republic
+euddr,ddr,Democratic Republic of Germany
+eudeu,deu,Germany
+afdji,dji,Djibouti
+nadma,dma,Dominica
+eudnk,dnk,Denmark
+nadom,dom,Dominican Republic
+afdza,dza,Algeria
+saecu,ecu,Ecuador
+afegy,egy,Egypt
+aferi,eri,Eritrea
+afesh,esh,Western Sahara
+euesp,esp,Spain
+euest,est,Estonia
+afeth,eth,Ethiopia
+eufdr,fdr,Federal Republic of Germany
+eufin,fin,Finland
+ocfji,fji,Fiji
+saflk,flk,Falkland Islands
+eufra,fra,France
+eufro,fro,Faroe Islands
+ocfsm,fsm,Micronesia
+afgab,gab,Gabon
+eugbr,gbr,United Kingdom
+asgeo,geo,Georgia
+afgha,gha,Ghana
+eugib,gib,Gibraltar
+afgin,gin,Guinea
+ocglp,glp,Guadeloupe
+afgmb,gmb,Gambia
+afgnb,gnb,Guinea-Bissau
+afgnq,gnq,Equatorial Guinea
+eugrc,grc,Greece
+nagrd,grd,Grenada
+nagrl,grl,Greenland
+nagtm,gtm,Guatemala
+saguf,guf,French Guiana
+ocgum,gum,Guam
+saguy,guy,Guyana
+ashkg,hkg,Hong Kong
+anhmd,hmd,Heard Island and McDonald Islands
+nahnd,hnd,Honduras
+euhrv,hrv,Croatia
+nahti,hti,Haiti
+euhun,hun,Hungary
+id,id_3char,name
+asidn,idn,Indonesia
+euimn,imn,Isle of Man
+asind,ind,India
+asiot,iot,British Indian Ocean Territory
+euirl,irl,Ireland
+asirn,irn,Iran
+asirq,irq,Iraq
+euisl,isl,Iceland
+asisr,isr,Israel
+euita,ita,Italy
+najam,jam,Jamaica
+asjor,jor,Jordan
+asjpn,jpn,Japan
+askaz,kaz,Kazakhstan
+afken,ken,Kenya
+askgz,kgz,Kyrgyzstan
+askhm,khm,Cambodia
+ockir,kir,Kiribati
+nakna,kna,Saint Kitts and Nevis
+askor,kor,South Korea
+euksv,ksv,Kosovo
+askwt,kwt,Kuwait
+aslao,lao,Laos
+aslbn,lbn,Lebanon
+aflbr,lbr,Liberia
+aflby,lby,Libya
+nalca,lca,Saint Lucia
+eulie,lie,Liechtenstein
+aslka,lka,Sri Lanka
+aflso,lso,Lesotho
+eultu,ltu,Lithuania
+eulux,lux,Luxembourg
+eulva,lva,Latvia
+asmac,mac,Macau
+namaf,maf,Saint Maarten
+afmar,mar,Morocco
+eumco,mco,Monaco
+eumda,mda,Moldova
+afmdg,mdg,Madagascar
+asmdv,mdv,Maldives
+namex,mex,Mexico
+ocmhl,mhl,Marshall Islands
+asmid,mid,Midway
+eumkd,mkd,Macedonia
+afmli,mli,Mali
+eumlt,mlt,Malta
+asmmr,mmr,Burma
+eumne,mne,Montenegro
+asmng,mng,Mongolia
+ocmnp,mnp,Northern Mariana Islands
+afmoz,moz,Mozambique
+afmrt,mrt,Mauritania
+namsr,msr,Montserrat
+namtq,mtq,Martinique
+afmus,mus,Mauritius
+afmwi,mwi,Malawi
+asmys,mys,Malaysia
+afmyt,myt,Mayotte
+nanaa,naa,Netherland Antilles and Aruba
+afnam,nam,Namibia
+ocncl,ncl,New Caledonia
+afner,ner,Niger
+ocnfk,nfk,Norfolk Island
+afnga,nga,Nigeria
+nanic,nic,Nicaragua
+ocniu,niu,Niue
+eunld,nld,Netherlands
+eunor,nor,Norway
+asnpl,npl,Nepal
+ocnru,nru,Nauru
+ocnzl,nzl,New Zealand
+asomn,omn,Oman
+aspak,pak,Pakistan
+napan,pan,Panama
+napci,pci,Pacific Island (US)
+ocpcn,pcn,Pitcairn Islands
+napcz,pcz,Panama Canal Zone
+saper,per,Peru
+asphl,phl,Philippines
+ocplw,plw,Palau
+ocpng,png,Papua New Guinea
+eupol,pol,Poland
+napri,pri,Puerto Rico
+asprk,prk,North Korea
+euprt,prt,Portugal
+sapry,pry,Paraguay
+aspse,pse,Palestine
+ocpyf,pyf,French Polynesia
+asqat,qat,Qatar
+afreu,reu,Reunion
+eurou,rou,Romania
+eurus,rus,Russia
+afrwa,rwa,Rwanda
+assau,sau,Saudi Arabia
+euscg,scg,Serbia and Montenegro
+afsdn,sdn,Sudan
+afsen,sen,Senegal
+assgp,sgp,Singapore
+ansgs,sgs,South Georgia South Sandwich Islands
+afshn,shn,Saint Helena
+eusjm,sjm,Svalbard
+ocslb,slb,Solomon Islands
+afsle,sle,Sierra Leone
+naslv,slv,El Salvador
+eusmr,smr,San Marino
+afsom,som,Somalia
+naspm,spm,Saint Pierre and Miquelon
+eusrb,srb,Serbia
+afssd,ssd,South Sudan
+afstp,stp,Sao Tome and Principe
+eusun,sun,USSR
+sasur,sur,Suriname
+eusvk,svk,Slovakia
+eusvn,svn,Slovenia
+euswe,swe,Sweden
+afswz,swz,Swaziland
+afsyc,syc,Seychelles
+assyr,syr,Syria
+natca,tca,Turks and Caicos Islands
+aftcd,tcd,Chad
+aftgo,tgo,Togo
+astha,tha,Thailand
+astjk,tjk,Tajikistan
+octkl,tkl,Tokelau
+astkm,tkm,Turkmenistan
+astls,tls,Timor-Leste
+octon,ton,Tonga
+natto,tto,Trinidad and Tobago
+aftun,tun,Tunisia
+astur,tur,Turkey
+octuv,tuv,Tuvalu
+astwn,twn,Taiwan
+aftza,tza,Tanzania
+afuga,uga,Uganda
+euukr,ukr,Ukraine
+naumi,umi,United States Minor Outlying Islands
+saury,ury,Uruguay
+nausa,usa,United States
+asuzb,uzb,Uzbekistan
+euvat,vat,Holy See (Vatican City)
+navct,vct,Saint Vincent and the Grenadines
+saven,ven,Venezuela
+navgb,vgb,British Virgin Islands
+navir,vir,Virgin Islands
+asvnm,vnm,Vietnam
+ocvut,vut,Vanuatu
+xxwld,wld,World
+ocwlf,wlf,Wallis and Futuna
+ocwsm,wsm,Samoa
+xxxxh,xxa,Areas
+asyar,yar,Yemen Arab Republic
+asyem,yem,Yemen
+asymd,ymd,Democratic Yemen
+euyug,yug,Yugoslavia
+afzaf,zaf,South Africa
+afzmb,zmb,Zambia
+afzwe,zwe,Zimbabwe
